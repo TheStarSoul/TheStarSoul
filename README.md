@@ -1,13 +1,19 @@
 <h1>⭐Basthian Flores⭐</h1>
-<h2>Alias:⭐TheStarSoul⭐</h2>
+Alias:⭐TheStarSoul⭐
 <h2>Descripcion: </h2>
-🐶Soy una persona con enfocada a realizar y cumplir mis metas independiente del tiempo que deba invertir🐶
+<ul>
+  <li>🐶Soy una persona con enfocada a realizar y cumplir mis metas independiente del tiempo que deba invertir🐶</li>
+</ul>
 <h2>Informacion de contacto</h2>
-<h4>📧Correo: thesoulr123@gmail📧</h4>
+<ul>
+  <li>📧Correo: thesoulr123@gmail📧</li>
+</ul>
 <h2>Informacion personal</h2>
-<h4>👨‍🎓Ocupacion: Estudiante👨‍🎓</h4>
-<h4>💼Carrera: Segundo año en Ingenieria en informatica💼</h4>
-<h4>🕜Establecimiento: IP Santo Tomas🕜</h4>
+<ul>
+  <li>👨‍🎓Ocupacion: Estudiante👨‍🎓</li>
+  <li>💼Carrera: Segundo año en Ingenieria en informatica💼</li>
+  <li>🕜Establecimiento: IP Santo Tomas🕜</li>
+</ul>
 <h2>Experiencias</h2>
 <ul>
   <li>⚙️IoT⚙️</li>
